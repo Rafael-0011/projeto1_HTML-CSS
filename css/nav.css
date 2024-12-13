@@ -4,7 +4,6 @@
 .nav__items {
   display: flex;
   height: 4rem;
-  text-align: center;
   justify-content: center;
   place-items: center;
   flex-wrap: wrap;

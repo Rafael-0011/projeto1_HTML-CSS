@@ -5,11 +5,18 @@
 
 .section__title {
   margin-bottom: 2%;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
+.section__imagems{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 10px;
+}
 .section__imagem {
   margin: 1%;
   width: 14%;
   margin-bottom: 3%;
 }
+
