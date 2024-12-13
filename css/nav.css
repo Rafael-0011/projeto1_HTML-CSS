@@ -8,6 +8,8 @@
   justify-content: center;
   place-items: center;
   flex-wrap: wrap;
+  margin-bottom: 0%;
+  gap: 10px;
 
 }
 
@@ -17,6 +19,7 @@
   border: #fff solid 1px;
   border-radius: 5px;
   font-size: 0.8rem;
+  padding: 10px 10px;
 }
 .nav__link:hover {
   background-color: #2b669e;

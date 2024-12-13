@@ -9,11 +9,13 @@
   .footer {
     align-items: center;
     font-size: 10px;
+    align-items: center;
+    padding: 20px;
   }
 
   .footer__logo {
-    width: 20%;
-    margin-bottom: 20px;
+    width: 13%;
+  
   }
 
   .footer__title {
@@ -115,6 +117,38 @@
 
   .article__text {
     font-size: 0.7rem;
+  }
+}
+
+/*--nav--*/
+@media (max-width: 1200px) {  
+  .nav__items {
+    margin-bottom: 0%;
+    gap: 10px;
+    flex-wrap: nowrap;
+    text-align: center;
+  }
+
+  .nav__link {
+    white-space: nowrap;
+    padding: 10px 10px;
+    font-size: 0.9em;
+  }
+}
+
+/*--nav--*/
+@media (max-width: 720px) {  
+  .nav__items {
+    margin-bottom: 0%;
+    gap: 10px;
+    flex-wrap: nowrap;
+    text-align: center;
+  }
+
+  .nav__link {
+    white-space: nowrap;
+    padding: 10px 10px;
+    font-size: 0.9em;
   }
 }
 

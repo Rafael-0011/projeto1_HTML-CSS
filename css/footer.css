@@ -1,12 +1,12 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 30px;
-    align-items: center;
-}
+  padding: 10px;
+  align-items: center;
+  background: linear-gradient(to right, #3e9dc9, #17cddf);}
 
 .footer__logo {
-  width: 10%;
+  width: 6rem;
 }
 
 .footer__sitemap {
