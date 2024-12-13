@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 150px;
+  align-items: center;
+}
+
+.footer__logo {
+  width: 10%;
+}
+
+.footer__sitemap {
+  font-size: 14px;
+}
+
+.footer__title {
+  font-size: 18px;
+}
+
+.footer__item {
+  font-size: 10px;
+}
+
+.footer__link {
+  text-decoration: none;
+}
+
+.footer__icons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  width: 20px;
+}

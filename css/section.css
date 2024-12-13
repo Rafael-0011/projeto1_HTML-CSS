@@ -1,0 +1,15 @@
+.section {
+  text-align: center;
+  padding: 2rem;
+}
+
+.section__title {
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+.section__imagem {
+  margin: 1%;
+  width: 14%;
+  margin-bottom: 3%;
+}

@@ -1,0 +1,24 @@
+.nav {
+  width: 100%;
+}
+.nav__items {
+  display: flex;
+  height: 4rem;
+  text-align: center;
+  justify-content: center;
+  place-items: center;
+  flex-wrap: wrap;
+  column-gap: 10px;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 1px;
+  border-radius: 10px;
+  padding: 1rem;
+  font-size: 0.8rem;
+}
+.nav__link:hover {
+  background-color: #2b669e;
+}
