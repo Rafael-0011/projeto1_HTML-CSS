@@ -1,8 +1,8 @@
 .footer {
   display: flex;
-  justify-content: space-evenly;
-  padding: 20px 150px;
-  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+    align-items: center;
 }
 
 .footer__logo {
