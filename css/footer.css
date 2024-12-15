@@ -1,33 +1,32 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 10px;
-  align-items: center;
-  background: linear-gradient(to right, #3e9dc9, #17cddf);}
-
-.footer__logo {
-  width: 6rem;
+  padding: 2.5rem;
+  background: linear-gradient(to right, #3e9dc9, #17cddf);
 }
 
-.footer__sitemap {
-  font-size: 14px;
+.footer__logo {
+  width: 8rem;
 }
 
 .footer__title {
-  font-size: 18px;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+
 }
 
 .footer__item {
-  font-size: 10px;
+  font-size: 1rem;
 }
 
 .footer__link {
+
   text-decoration: none;
 }
 
 .footer__icons {
   display: flex;
   justify-content: flex-start;
-  gap: 5px;
-  width: 20px;
+  gap: 0.5rem;
+  
 }
