@@ -5,7 +5,6 @@
 .nav__items {
   display: flex;
   justify-content: center;
-  place-items: center;
   flex-wrap: wrap;
   margin-bottom: 0%;
   gap: 10px;
